@@ -1,0 +1,17 @@
+# Ignore all the audio files
+*.mp3
+*.wav
+
+# Ignore all table data files
+*.csv
+*.tsv
+*.npy
+
+# Ignore notebook checkpoint
+*.ipynb_checkpoints
+
+# Ignore Python cache files and directories
+__pycache/
+*.py[cod]
+
+.DS_Store
